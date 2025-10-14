@@ -1863,6 +1863,7 @@ blockquote:after {
 .projectImg img {
   width: 100%;
   border-radius: 15px;
+  height: 200px;
 }
 .portfolio_sec {
   margin: 15px 0;
